@@ -1,4 +1,12 @@
 h1 {
     text-align: center;
   }
-  
+  .a1:link{
+    color: blue;
+  }
+  .a1:visited{
+    color: black;
+  }
+  .a1{
+    background-color: burlywood;
+  }
