@@ -1,13 +1,16 @@
-h1{
+h1 {
   text-align: center;
   color: red;
 }
-  .a1:link{
-    color: blue;
-  }
-  .a1:visited{
-    color: black;
-  }
-  .a1{
-    background-color: burlywood;
-  }
+h3 {
+  text-align: center;
+}
+.a1:link {
+  color: blue;
+}
+.a1:visited {
+  color: black;
+}
+.a1 {
+  background-color: burlywood;
+}
